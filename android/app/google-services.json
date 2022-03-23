@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560701623007",
+    "project_id": "journal-app-c9234",
+    "storage_bucket": "journal-app-c9234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560701623007:android:e937d4f8d9b57fb17d376a",
+        "android_client_info": {
+          "package_name": "com.netholi.journal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560701623007-8q5gr7m1ctgq2a9pt9ju0fdueuvu2ah6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADNL660kpRhYoLg981-MgPy64pCYYB6go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560701623007-8q5gr7m1ctgq2a9pt9ju0fdueuvu2ah6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
