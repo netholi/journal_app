@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:journal_app/src/screens/home.dart';
 
 class App extends StatelessWidget {
   const App({Key? key}) : super(key: key);
@@ -6,9 +7,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Scaffold(
-        body: Center(child: Text('Heome screen')),
-      ),
+      home: HomeScreen(),
     );
   }
 }
